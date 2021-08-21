@@ -5,3 +5,6 @@
 文件夹
 - 论文
 - 参考资料
+
+---
+命名实体识别 | Effective Bilingual Constraints for Semi-Supervised Learning of Named Entity Recognizers | [论文](https://github.com/GoodDayUp/Paper/tree/master/Effective%20Bilingual%20Constraints%20for%20Semi-Supervised%20Learning%20of%20Named%20Entity%20Recognizers)
