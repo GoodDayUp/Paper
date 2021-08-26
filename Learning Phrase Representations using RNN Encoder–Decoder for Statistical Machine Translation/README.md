@@ -1,1 +1,1 @@
-
+参考：http://www.maplelearning.cn/index.php/2019/12/13/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%E3%80%8Alearning-phrase-representations-using-rnn-encoder-decoder-for-statistical-machine-translation%E3%80%8B/
