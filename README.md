@@ -18,4 +18,4 @@
 文本分类 | How to Fine-Tune BERT for Text Classification | [论文](https://github.com/GoodDayUp/Paper/tree/master/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classification)
 机器翻译 | sequence to sequence learning with neural networks | [论文](https://github.com/GoodDayUp/Paper/tree/master/sequence-to-sequence-learning-with-neural-networks)
 机器翻译 | Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation | [论文](https://github.com/GoodDayUp/Paper/tree/master/Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation)
-预训练模型与知识图谱相结合进展 | ERNIE: Enhanced Language Representation with Informative Entities | https://github.com/GoodDayUp/Paper/tree/master/ERNIE:%20Enhanced%20Language%20Representation%20with%20Informative%20Entities
+预训练模型与知识图谱 | ERNIE: Enhanced Language Representation with Informative Entities | [论文](https://github.com/GoodDayUp/Paper/tree/master/ERNIE:%20Enhanced%20Language%20Representation%20with%20Informative%20Entities)
