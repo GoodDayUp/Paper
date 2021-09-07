@@ -22,5 +22,6 @@
 预训练模型与知识图谱 | K-BERT: Enabling Language Representation with Knowledge Graph | [论文](https://github.com/GoodDayUp/Paper/tree/master/K-BERT:%20Enabling%20Language%20Representation%20with%20Knowledge%20Graph)
 知识图谱 | 知识图谱技术综述 | [论文](https://github.com/GoodDayUp/Paper/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0)
 知识图谱 | Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling | [论文](https://github.com/GoodDayUp/Paper/tree/master/Attention-Based%20Recurrent%20Neural%20Network%20Models%20for%20Joint%20Intent%20Detection%20and%20Slot%20Filling)
+知识图谱 | DiaKG- an Annotated Diabetes Dataset for Medical Knowledge Graph Construction | [论文](https://github.com/GoodDayUp/Paper/tree/master/DiaKG-%20an%20Annotated%20Diabetes%20Dataset%20for%20Medical%20Knowledge%20Graph%20Construction)
 问答系统 | SimpleQuestions Nearly Solved：A New Upperbound and Baseline Approach | [论文](https://github.com/GoodDayUp/Paper/tree/master/SimpleQuestions%20Nearly%20Solved%EF%BC%9AA%20New%20Upperbound%20and%20Baseline%20Approach)
 问答系统 | alime kbqa:question answering over structured for e-commerce customer service | [论文](https://github.com/GoodDayUp/Paper/tree/master/alime%20kbqa:question%20answering%20over%20structured%20for%20e-commerce%20customer%20service)
