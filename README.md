@@ -18,6 +18,7 @@
 文本分类 | How to Fine-Tune BERT for Text Classification | [论文](https://github.com/GoodDayUp/Paper/tree/master/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classification)
 机器翻译 | sequence to sequence learning with neural networks | [论文](https://github.com/GoodDayUp/Paper/tree/master/sequence-to-sequence-learning-with-neural-networks)
 机器翻译 | Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation | [论文](https://github.com/GoodDayUp/Paper/tree/master/Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation)
+预训练模型 | Pre Trained Models: Past, Present and Future | [论文](https://github.com/GoodDayUp/Paper/tree/master/Pre%20Trained%20Models:%20Past%2C%20Present%20and%20Future)
 预训练模型与知识图谱 | ERNIE: Enhanced Language Representation with Informative Entities | [论文](https://github.com/GoodDayUp/Paper/tree/master/ERNIE:%20Enhanced%20Language%20Representation%20with%20Informative%20Entities)
 预训练模型与知识图谱 | K-BERT: Enabling Language Representation with Knowledge Graph | [论文](https://github.com/GoodDayUp/Paper/tree/master/K-BERT:%20Enabling%20Language%20Representation%20with%20Knowledge%20Graph)
 知识图谱 | 知识图谱技术综述 | [论文](https://github.com/GoodDayUp/Paper/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0)
