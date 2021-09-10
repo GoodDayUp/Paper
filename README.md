@@ -17,6 +17,7 @@
 命名实体识别 | Bidirectional LSTM-CRF Models for Sequence Tagging | [论文](https://github.com/GoodDayUp/Paper/tree/master/Bidirectional%20LSTM-CRF%20Models%20for%20Sequence%20Tagging)
 命名实体识别 | A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition | [论文](https://github.com/GoodDayUp/Paper/tree/master/A%20Span-Based%20Model%20for%20Joint%20Overlapped%20and%20Discontinuous%20Named%20Entity%20Recognition)
 关系抽取 | Joint entity recognition and relation extraction as a multi-head selection problem | [论文](https://github.com/GoodDayUp/Paper/tree/master/Joint%20entity%20recognition%20and%20relation%20extraction%20as%20a%20multi-head%20selection%20problem)
+关系抽取 | Adversarial training for multi-context joint entity and relation extraction | [论文](https://github.com/GoodDayUp/Paper/tree/master/Adversarial%20training%20for%20multi-context%20joint%20entity%20and%20relation%20extraction)
 文本分类 | How to Fine-Tune BERT for Text Classification | [论文](https://github.com/GoodDayUp/Paper/tree/master/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classification)
 机器翻译 | sequence to sequence learning with neural networks | [论文](https://github.com/GoodDayUp/Paper/tree/master/sequence-to-sequence-learning-with-neural-networks)
 机器翻译 | Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation | [论文](https://github.com/GoodDayUp/Paper/tree/master/Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation)
