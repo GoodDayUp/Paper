@@ -19,6 +19,7 @@
 关系抽取 | Joint entity recognition and relation extraction as a multi-head selection problem | [论文](https://github.com/GoodDayUp/Paper/tree/master/Joint%20entity%20recognition%20and%20relation%20extraction%20as%20a%20multi-head%20selection%20problem)
 关系抽取 | Adversarial training for multi-context joint entity and relation extraction | [论文](https://github.com/GoodDayUp/Paper/tree/master/Adversarial%20training%20for%20multi-context%20joint%20entity%20and%20relation%20extraction)
 文本分类 | How to Fine-Tune BERT for Text Classification | [论文](https://github.com/GoodDayUp/Paper/tree/master/How%20to%20Fine-Tune%20BERT%20for%20Text%20Classification)
+阅读理解 | Bidirectional Attention Flow for Machine Comprehension | [论文](https://github.com/GoodDayUp/Paper/tree/master/Bidirectional%20Attention%20Flow%20for%20Machine%20Comprehension)
 机器翻译 | sequence to sequence learning with neural networks | [论文](https://github.com/GoodDayUp/Paper/tree/master/sequence-to-sequence-learning-with-neural-networks)
 机器翻译 | Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation | [论文](https://github.com/GoodDayUp/Paper/tree/master/Learning%20Phrase%20Representations%20using%20RNN%20Encoder%E2%80%93Decoder%20for%20Statistical%20Machine%20Translation)
 预训练模型 | Pre Trained Models: Past, Present and Future | [论文](https://github.com/GoodDayUp/Paper/tree/master/Pre%20Trained%20Models:%20Past%2C%20Present%20and%20Future)
