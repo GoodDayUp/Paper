@@ -32,3 +32,4 @@
 问答系统 | alime kbqa:question answering over structured for e-commerce customer service | [论文](https://github.com/GoodDayUp/Paper/tree/master/alime%20kbqa:question%20answering%20over%20structured%20for%20e-commerce%20customer%20service)
 问答系统 | Answering Natural Language Questions by Subgraph Matching over Knowledge Graphs | [论文](https://github.com/GoodDayUp/Paper/tree/master/Answering%20Natural%20Language%20Questions%20by%20Subgraph%20Matching%20over%20Knowledge%20Graphs)
 问答系统 | Harvesting and Refining Question-Answer Pairs for Unsupervised QA | [论文](https://github.com/GoodDayUp/Paper/tree/master/Harvesting%20and%20Refining%20Question-Answer%20Pairs%20for%20Unsupervised%20QA)
+问答系统 | Knowledge Base Question Answering through Recursive Hypergraphs | [论文](https://github.com/GoodDayUp/Paper/tree/master/Knowledge%20Base%20Question%20Answering%20through%20Recursive%20Hypergraphs)
